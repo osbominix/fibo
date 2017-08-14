@@ -12,11 +12,18 @@ using other data type or technology. I just choose integer data type to make the
 Output:
 
 Please enter index of fibo:  1
+
 the Fibo nummer of index 1 is: 1
+
 Please enter index of fibo:  10
+
 the Fibo nummer of index 10 is: 55
+
 Please enter index of fibo:  0
+
 Please give an index between 1 and 46
+
 Please enter index of fibo:  a
+
 Please give an integer number.
 
